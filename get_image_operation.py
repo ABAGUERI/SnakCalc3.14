@@ -1,5 +1,5 @@
 from PIL import Image, ImageDraw, ImageFont
-class Operation_image:
+class OperationImage:
   """
     Classe permettant de creer, d'une operation son objet image.
   """
