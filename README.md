@@ -16,5 +16,5 @@ Prochaines améliorations:
 Packages à utiliser pour générer des images d'opération:
 
 * PIL Ressources :
-* https://www.blog.pythonlibrary.org/2021/02/02/drawing-text-on-images-with-pillow-and-python/
+* https://www.youtube.com/watch?v=QFvqStqPCRU&t=7499s
 * https://python.plainenglish.io/generating-text-on-image-with-python-eefe4430fe77
